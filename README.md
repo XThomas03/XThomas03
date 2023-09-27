@@ -1,5 +1,2 @@
 
-hola,soy Thomas Avila,tengo 21 años y estoy interesado en aprender y progresar en el mundo de la programación,tratando de superarme dia a dia.
-metodo de contacto:
-Mail:KevinTAvila03@gmail.com
-<!---
+Soy Thomas Avila, un apasionado de la programación de 21 años, constantemente enfocado en aprender y crecer en el vasto mundo de la tecnología. Mi objetivo es superarme día a día, explorando nuevas tecnologías y enfrentando desafíos creativos. En mi perfil de GitHub, encontrarás una colección de proyectos personales y contribuciones a proyectos de código abierto que reflejan mi dedicación y mi camino hacia la excelencia en el desarrollo de software. Siéntete libre de explorar mis repositorios y contactarme en cualquier momento a través de mi correo electrónico: KevinTAvila03@gmail.com<!---. Estoy abierto a colaboraciones y a compartir conocimientos en esta emocionante travesía tecnológica.
